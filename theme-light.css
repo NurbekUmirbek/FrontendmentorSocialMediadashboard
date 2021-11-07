@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+.alll{
+
+	background-color: #E5E7F3;
+
+
+}
+
+body{
+	background-color: #DADBE8;
+}
+.Social{
+	
+	color: black
+;
+}
+.Total{
+
+	color: #82899A;
+}
+.Dark{
+
+	 color: black
+;
+	}
+
+.facebook{
+
+	background-color: #C8CBE9;
+
+}
+
+
+
+.nathanf{
+
+color: #D8DDEB;
+
+}
+.secondfirst:hover{
+background-color: #B9BBD8
+;
+}
+.secondfirst11:hover{
+background-color: #B9BBD8
+;
+}
+.youtube:hover{
+background-color: #B9BBD8
+;
+}
+.facebook:hover{
+background-color: #B9BBD8
+;
+}
+.instagram:hover{
+background-color: #B9BBD8
+;
+}
+.twitter:hover{
+background-color: #B9BBD8
+;
+}
+.cifer{
+	color: black
+;
+}
+.Followers{
+		color: #D8DDEB;
+}
+.Today{
+
+		color: #D8DDEB;
+}
+.twitter{
+
+	background-color: #C8CBE9;
+}
+.instagram{
+	background-color: #C8CBE9;
+}
+.Today{
+
+	color:#5ED152;
+}
+.Today1{
+	color:#CA0000;
+}
+
+
+.youtube{
+
+	background-color: #C8CBE9
+;
+}
+
+.second{
+	color: black
+;
+}
+.secondfirst{
+	background-color: #C8CBE9
+;
+}
+.secondfirst11{
+	background-color: #C8CBE9
+;
+}
+color: #D8DDEB;
+}
+.PageViews2{
+
+color: #D8DDEB;
+}
+.PageViews{
+color: #D8DDEB;
+}
+.percentof11{
+	color: #5ED152;
+}
+.percentof12{
+	color:#CA0000;
+}
+.third{
+
+	color: black
+;
+
+}
+.Overview{
+
+	 color: black
+;
+}
+.changeTheme[data-theme="light"]{
+	display: none;
+}
+.changeTheme[data-theme="dark"]{
+	display: block;
+}
