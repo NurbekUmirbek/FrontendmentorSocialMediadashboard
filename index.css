@@ -1,0 +1,377 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+.alll{
+	position: absolute;
+	height: 245px;
+	width: 1510px;
+	background-color: #161E36;
+	font-family: 'Inter', sans-serif;
+
+}
+
+.theme{
+	position: absolute;
+    left: 1230px;
+    top: 40px;
+}
+.header{
+	margin: 0 220px;
+	font-family: 'Inter', sans-serif;
+
+}
+body{
+	background-color: #0C1220;
+}
+.Social{
+	font-size: 35px;
+	font-family: 'Inter', sans-serif;
+	font-weight: bold;
+	color: white;
+}
+.Total{
+	position: relative;
+	bottom: 20px;
+	font-weight: bold;
+	font-size: 12px;
+	color: #82899A;
+}
+.Dark{
+	position: relative;
+	bottom: 90px;
+	 text-align: right;
+	 font-family: 'Inter', sans-serif;
+	 font-weight: bold;
+	 color: white;
+	}
+.first{
+	position: absolute;
+	top: 150px;
+	margin: 0 220px;
+	width: 1100px;
+	height:230px ;
+	font-family: 'Inter', sans-serif;
+}
+.facebook{
+	position: relative;
+	margin-right: 20px;
+	  
+	border-top: 5px blue solid;
+	width: 250px;
+	height:230px;
+	text-align: center;
+	display: inline-block;
+	font-family: 'Inter', sans-serif;
+	border-radius: 8px;
+	background-color: #192642;
+
+
+}
+.facebook1{
+		position: relative;
+		right: 45px;
+	top:43px;
+}
+.facebook12{
+		position: relative;
+		right: 52px;
+	top:43px;
+}
+
+.nathanf{
+	position: relative;
+	top: 10px;
+font-size: 12px;
+color: #D8DDEB;
+font-weight: bold;
+}
+.secondfirst:hover{
+background-color: #46495B;
+}
+.secondfirst11:hover{
+background-color: #46495B;
+}
+.youtube:hover{
+background-color: #46495B;
+}
+.facebook:hover{
+background-color: #46495B;
+}
+.instagram:hover{
+background-color: #46495B;
+}
+.twitter:hover{
+background-color: #46495B;
+}
+.cifer{
+	position: relative;
+	bottom: 30px;
+	font-size: 55px;
+	font-weight: bold;
+	color: white;
+}
+.Followers{
+	position: relative;
+	bottom: 80px;
+		font-size: 15px;
+		text-transform: uppercase;
+		letter-spacing: 3px;
+		color: #D8DDEB;
+}
+.Today{
+		position: relative;
+	bottom: 70px;
+		font-size: 15px;
+		color: #D8DDEB;
+}
+.twitter{
+	position: relative;
+	margin-right: 20px;
+	 bottom: 2.15px;
+	border-top: 5px blue solid;
+	width: 250px;
+	height:230px;
+	text-align: center;
+	display: inline-block;
+	font-family: 'Inter', sans-serif;
+	border-radius: 8px;
+	background-color: #192642;
+
+
+
+}
+.instagram{
+	position: relative;
+	margin-right: 20px;
+	border-top: 5px blue solid;
+	width: 250px;
+	height:230px;
+	text-align: center;
+	display: inline-block;
+	font-family: 'Inter', sans-serif;
+	border-radius: 8px;
+	background-color: #192642;
+}
+.Today{
+	font-weight: bold;
+	color:#5ED152;
+}
+.Today1{
+	position: relative;
+	bottom: 70px;
+		font-size: 15px;
+		color: #D74F4F;
+	font-weight: bold;
+	color:#CA0000;
+}
+.icon1{
+	position: relative;
+	top: 40px;
+	right: 105px;
+}
+.icon2{
+	position: relative;
+	top: 40px;
+	right: 115px;
+}
+.icon3{
+	position: relative;
+	top: 40px;
+	right: 115px;
+}
+.youtube{
+	position: relative;  
+	border-top: 5px blue solid;
+	width: 250px;
+	height:230px;
+	text-align: center;
+	display: inline-block;
+	font-family: 'Inter', sans-serif;
+	border-radius: 8px;
+	background-color: #192642;
+}
+
+.second{
+	position: absolute;
+	top: 500px;
+	margin: 0 220px;
+	width: 1110px;
+	height:115px ;
+	font-family: 'Inter', sans-serif;
+		font-weight: bold;
+	color: white;
+	border-radius: 8px;
+	
+
+}
+.secondfirst{
+	position: relative;
+	margin-right: 20px;
+	  
+	width: 250px;
+	height:115px;
+	display: inline-block;
+	font-family: 'Inter', sans-serif;
+	border-radius: 8px;
+	background-color: #192642;
+}
+.secondfirst11{
+	position: relative;
+	margin-right: 20px;
+	top: 3px;
+	width: 250px;
+	height:115px;
+	display: inline-block;
+	font-family: 'Inter', sans-serif;
+	border-radius: 8px;
+	background-color: #192642;
+
+}
+.facebook2{
+	position: relative;
+	left: 90px;
+}
+.facebook3{
+	position: relative;
+	left: 145px;
+}
+
+.instagram1{
+	position: relative;
+	left: 205px;
+    top: 5px;
+}
+.PageViews1{
+	position: relative;
+color: #D8DDEB;
+}
+.PageViews2{
+	position: relative;
+	right: 5px;
+color: #D8DDEB;
+}
+.PageViews{
+	position: relative;
+	left: 20px;
+color: #D8DDEB;
+}
+.numberof{
+	position: relative;
+	left: 20px;
+	font-size: 30px;
+	bottom: 10px;
+}
+.percentof{
+	position: relative;
+	bottom: 62px;
+	left: 190px;
+}
+.percentof{
+	position: relative;
+	bottom: 62px;
+	left: 195px;
+}
+
+.percentof31{
+	position: relative;
+	bottom: 62px;
+	left: 185px;
+}
+.percentof211{
+	position: relative;
+	bottom: 62px;
+	left: 170px;
+}
+.percentof11{
+	color: #5ED152;
+}
+.percentof112{
+	position: relative;
+	right: 10px;
+}
+.percentof12{
+	color:#CA0000;
+}
+.icon12{
+	position: relative;
+	bottom: 3px;
+	right: 3px;
+}
+.icon128{
+	position: relative;
+	bottom: 3px;
+	right: 5px;
+}
+.icon123{
+	position: relative;
+	bottom: 3px;
+	right: 5px;
+}
+.icon1234{
+	position: relative;
+	bottom: 3px;
+	right: 6px;
+}
+.percentof1{
+	position: relative;
+	bottom: 62px;
+	left: 175px;
+}
+.percentof123{
+	position: relative;
+	bottom: 62px;
+	left: 168px;
+}
+.percentof1234{
+	position: relative;
+	bottom: 62px;
+	left: 160px;
+}
+.third{
+	position: absolute;
+	top: 650px;
+	margin: 0 220px;
+	width: 1110px;
+	height:115px ;
+	font-family: 'Inter', sans-serif;
+	font-weight: bold;
+	color: white;
+	border-radius: 8px;
+
+}
+.twitter1{
+	position: relative;
+	left: 110px;
+}
+.twitter2{
+	position: relative;
+	left: 145px;
+}
+.percentof2{
+	position: relative;
+	bottom: 62px;
+	left: 180px;
+}
+.percentof55{
+	position: relative;
+	bottom: 62px;
+	left: 190px;
+}
+.youtube2{
+	position: relative;
+	left: 150px;
+}
+.youtube3{
+	position: relative;
+	left: 100px;
+}
+
+
+.Overview{
+	position: absolute;
+	top: 440px;
+	margin: 0 220px;
+	font-size: 35px;
+	font-family: 'Inter', sans-serif;
+	font-weight: bold;
+	 color: white;
+
+}
